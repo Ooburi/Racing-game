@@ -3,4 +3,4 @@
 **Console Racing Game** is console application written in C#.
 
 ## Screenshots
-![screen](docs/screen.jpg)
+![screen](data/screen.jpg)
